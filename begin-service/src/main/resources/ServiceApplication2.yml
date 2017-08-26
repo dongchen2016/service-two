@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: ServiceApplication2  # Service registers under this name
+
+server:
+  address: 127.0.0.1
+  port: 8081
+
